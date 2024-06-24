@@ -1,0 +1,10 @@
+langchain_core 
+langchain 
+langchain_cohere 
+langchain-community 
+langchain-chroma 
+duckduckgo-search
+chromadb
+langgraph
+pypdf
+langchain-google-genai
