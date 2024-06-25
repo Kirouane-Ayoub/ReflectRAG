@@ -8,8 +8,8 @@
 ██   ██ ███████ ██      ███████ ███████  ██████    ██    ██   ██ ██   ██  ██████  
 
                                   Routing and self-reflection
+                                        🦜🕸️LangGraph
 ```
-
 
 ReflectRAG is a non-official implementation inspired by the paper [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511). While it doesn't exactly replicate the methods described in the paper, it strives to capture the core concepts and techniques to the best of its ability. ReflectRAG leverages LangChain and LangGraph to build a robust pipeline for intelligent question answering, incorporating self-reflection steps to ensure the accuracy and relevance of the generated responses.
 
