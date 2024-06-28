@@ -142,5 +142,16 @@ To add new documents to the knowledge base, place them in the `src/data_input` d
 6. **Final Output**: The system provides the answer if it passes all verification steps.
 
 ---
+## Integration with LangSmith
 
-ReflectRAG aims to deliver accurate and reliable answers by combining powerful language models with intelligent routing and self-reflection techniques. We hope you find this project useful and look forward to your contributions!
+You can integrate LangSmith for tracking your project by adding the following lines to your `.env` file:
+
+```
+LANGCHAIN_TRACING_V2=true
+LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
+LANGCHAIN_API_KEY="<your-api-key>"
+```
+
+### LangSmith
+
+LangSmith is an all-in-one developer platform for every step of the LLM-powered application lifecycle, whether you’re building with LangChain or not. It allows you to debug, collaborate, test, and monitor your LLM applications effectively.
