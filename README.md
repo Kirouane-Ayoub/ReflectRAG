@@ -15,7 +15,7 @@ ReflectRAG is a non-official implementation inspired by the paper [Self-RAG: Lea
 
 For More Information About this Project Check My Project Guide .
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ayoubkirouane3/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ayoubkirouane3/9" alt="Mamba Transformer"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ayoubkirouane3/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ayoubkirouane3/9" alt="ReflectRAG"> 
 
 
 ## Project Structure
