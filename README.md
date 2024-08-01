@@ -13,6 +13,11 @@
 
 ReflectRAG is a non-official implementation inspired by the paper [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511). While it doesn't exactly replicate the methods described in the paper, it strives to capture the core concepts and techniques to the best of its ability. ReflectRAG leverages LangChain and LangGraph to build a robust pipeline for intelligent question answering, incorporating self-reflection steps to ensure the accuracy and relevance of the generated responses.
 
+For More Information About this Project Check My Project Guide .
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ayoubkirouane3/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ayoubkirouane3/9" alt="Mamba Transformer"> 
+
+
 ## Project Structure
 
 The project is organized as follows:
